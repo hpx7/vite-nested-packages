@@ -1,5 +1,12 @@
 {
+  "private": true,
+  "workspaces": [
+    "app"
+  ],
   "dependencies": {
     "react-bootstrap": "1.3.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3"
   }
 }
