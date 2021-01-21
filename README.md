@@ -1,6 +1,6 @@
-run `npm install` in both root directory and inside app directory.
-
+To repro:
 ```
+yarn
 cd app
 npx vite
 ```
