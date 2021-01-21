@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "vite": "2.0.0-beta.36"
+    "vite": "2.0.0-beta.36",
+    "vue": "2.6.12"
   },
   "devDependencies": {
     "typescript": "^4.1.3"
